@@ -1,0 +1,122 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Monsieur",
+        "first": "Rue",
+        "last": "Grande"
+      },
+      "location": {
+        "street": {
+          "number": 8928,
+          "name": "Rue Gasparin"
+        },
+        "city": "France",
+        "state": "Appenzell Ausserrhoden",
+        "country": "Switzerland",
+        "postcode": 6331,
+        "coordinates": {
+          "latitude": "-61.3465",
+          "longitude": "-30.9507"
+        },
+        "timezone": {
+          "offset": "+11:00",
+          "description": "Magadan, Solomon Islands, New Caledonia"
+        }
+      },
+      "email": "meinrad.meyer@example.com",
+      "login": {
+        "uuid": "8602a2b8-1ae8-4fbc-a1c5-4404b8bc219c",
+        "username": "purpledog397",
+        "password": "united",
+        "salt": "b5WOiMSH",
+        "md5": "5b6a0afd8b7c40437f35bab97322f25f",
+        "sha1": "40da6c2a3d1e9cdc79d102abe182e8932d87c545",
+        "sha256": "cd9522eb07b51a31fc40c6a5ab4ea9140dba19d34f0ac40c87761760ca450bc4"
+      },
+      "dob": {
+        "date": "1983-07-06T09:39:45.985Z",
+        "age": 39
+      },
+      "registered": {
+        "date": "2007-07-18T16:36:36.811Z",
+        "age": 12
+      },
+      "phone": "078 491 25 70",
+      "cell": "075 322 11 47",
+      "id": {
+        "name": "AVS",
+        "value": "756.0720.3469.49"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/58.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/58.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/58.jpg"
+      },
+      "nat": "CH"
+    },
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Gustavo",
+        "last": "Laureano"
+      },
+      "location": {
+        "street": {
+          "number": 7526,
+          "name": "Viktora Yarmoli"
+        },
+        "city": "Ciudad Valles",
+        "state": "Sumska",
+        "country": "Ukraine",
+        "postcode": 31746,
+        "coordinates": {
+          "latitude": "78.2641",
+          "longitude": "-54.4254"
+        },
+        "timezone": {
+          "offset": "+9:30",
+          "description": "Adelaide, Darwin"
+        }
+      },
+      "email": "kvitan.yakovishin@example.com",
+      "login": {
+        "uuid": "670df2ff-c3e1-4533-8504-eb5a9377d100",
+        "username": "beautifullion804",
+        "password": "auto",
+        "salt": "LCQhAuJf",
+        "md5": "85445829d2cbe7da32ef953db5d3cbbe",
+        "sha1": "297240a64f4b286cbed77e6b49e166fc0d4bf4c7",
+        "sha256": "9b69ec2f6b763f3fc3fd42a0e31299ea56542ba1588180422a13deb4fe881fed"
+      },
+      "dob": {
+        "date": "1953-02-07T18:47:32.683Z",
+        "age": 69
+      },
+      "registered": {
+        "date": "2009-03-28T13:16:37.003Z",
+        "age": 20
+      },
+      "phone": "(068) H59-1373",
+      "cell": "(098) I57-5473",
+      "id": {
+        "name": "",
+        "value": null
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/0.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/0.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/0.jpg"
+      },
+      "nat": "UA"
+    }
+  ],
+  "info": {
+    "seed": "207e425f60bb4270",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
